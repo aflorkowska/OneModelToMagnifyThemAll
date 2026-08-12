@@ -173,6 +173,15 @@ Output goes to `OUTPUTS_EVALUATION/EVALUATION/<model_type>_trained_PS_<ps>_<uniq
 If you use this code, please cite the associated paper:
 
 ```bibtex
+@misc{florkowska2026modelmagnifyallefficient,
+      title={One Model to Magnify Them All: Efficient Scale-Invariant Histopathology via Conditional Normalization and Continuous Magnification Training}, 
+      author={Agnieszka Florkowska and Henning Müller and Marek Wodzinski},
+      year={2026},
+      eprint={2608.09403},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2608.09403}, 
+}
 ```
 
 ## License
